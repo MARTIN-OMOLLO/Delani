@@ -1,3 +1,6 @@
 .Welcome{
     text-align: center;
+    background-image: url(images/Delani2.jpg);
+    background-size: cover;
+    color: white;
 }
