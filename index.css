@@ -27,8 +27,21 @@
 }
 #name{
     height: 30px;
-    width: 200px;
+    width: 400px;
+}
+#email{
+    height: 30px;
+    width: 400px;
+}
+#message{
+    height: 150px;
+    width: 850px;
 }
 .Form{
     text-align: center;
+    justify-content: space-around;
+}
+.First{
+    display: inline-flex;
+    justify-content: space-around;
 }
