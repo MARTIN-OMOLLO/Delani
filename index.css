@@ -58,23 +58,23 @@
     background-size: cover;
 }
 .container {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
     margin-right: auto;
     margin-left: auto;
   }
-  @media (min-width: 768px) {
+  @media (min-width: 750px) {
     .container {
-      width: 750px;
+      width: 730px;
     }
   }
-  @media (min-width: 992px) {
+  @media (min-width: 990px) {
     .container {
-      width: 970px;
+      width: 965px;
     }
   }
-  @media (min-width: 1200px) {
+  @media (min-width: 1300px) {
     .container {
-      width: 1170px;
+      width: 1200px;
     }
   }
