@@ -22,3 +22,9 @@
  display: flex;
  justify-content: space-around;
 }
+.Work{
+    justify-content: space-around;
+}
+#name{
+    height: 30px;
+}
