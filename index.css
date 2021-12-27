@@ -45,3 +45,15 @@
     display: inline-flex;
     justify-content: space-around;
 }
+.Name{
+    margin: 10px;
+}
+.Email{
+    margin: 10px;
+}
+.Contact{
+    text-align: center;
+    margin-top: 40px;
+    background-image: url(images/Delani1.jpg);
+    background-size: cover;
+}
