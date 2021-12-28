@@ -3,13 +3,17 @@
     background-image: url(images/Delani2.jpg);
     background-size: cover;
     color: white;
+    height: 110vh;
+}
+.Welcome#Top{
+margin-top: 10rem;
 }
 .About{
     text-align: center;
     line-height: 30px;
 }
 .Service{
-    text-align: center;
+    /* text-align: center; */
     background-image: url(images/Delani3.jpg);
     background-size: cover;
     color: white;
