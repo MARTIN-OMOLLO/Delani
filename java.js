@@ -2,8 +2,8 @@ $(document).ready(function(){
     
 })
 $(document).ready(function() {
-    $('.Wedo').hover();
-    $('Wedo').animate({
+    $('.Development.p').hide();
+    $('Development').animate({
         opacity:1
     });
     $('Wedo').hover(function() {
