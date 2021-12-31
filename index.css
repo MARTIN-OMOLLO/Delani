@@ -86,7 +86,28 @@ margin-top: 10rem;
   #one:hover{
       opacity: 0.5;
   }
-  .paratwo{
+  #two:hover{
+    opacity: 0.5;
+}
+#three:hover{
+    opacity: 0.5;
+}
+#four:hover{
+    opacity: 0.5;
+}
+#five:hover{
+    opacity: 0.5;
+}
+#six:hover{
+    opacity: 0.5;
+}
+#seven:hover{
+    opacity: 0.5;
+}
+#eight:hover{
+    opacity: 0.5;
+}
+.paratwo{
       display: none;
   }
   
