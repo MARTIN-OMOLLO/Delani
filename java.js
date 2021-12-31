@@ -6,4 +6,15 @@ $(document).ready(function() {
         $(".paratwo").toggle();
     });
     })
-   
+    $(document).ready(function() {
+        $(".Development").click(function(){
+            $(".imgone").toggle();
+            $(".paraone").toggle();
+        });
+    });
+    $(document).ready(function() {
+        $(".Development").click(function(){
+            $(".imgthree").toggle();
+            $(".parathree").toggle();
+        });
+    });
