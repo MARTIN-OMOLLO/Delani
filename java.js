@@ -7,8 +7,3 @@ $(document).ready(function() {
     });
     })
    
-    // $('Wedo').hover(function() {
-    //     $(this).stop().animate({opacity:.4},200);
-    //     $('.Wedo').fadeIn();
-    // }, function() {
-    //     $(this).stop().animate({opacity:
