@@ -1,16 +1,12 @@
-$(document).ready(function(){
-    
-})
+// $(document).ready(function(){
+
 $(document).ready(function() {
-    $('.Development.p').hide();
-    $('Development').animate({
-        opacity:1
+    $('.Development.display').click(function();
+    $("imgtwo").toggle();
+    $("paratwo").toggle();
     });
-    $('Wedo').hover(function() {
-        $(this).stop().animate({opacity:.4},200);
-        $('.Wedo').fadeIn();
-    }, function() {
-        $(this).stop().animate({opacity:1},500)
-        $('.Wedo').fadeOut();
-    });
-});
+    // $('Wedo').hover(function() {
+    //     $(this).stop().animate({opacity:.4},200);
+    //     $('.Wedo').fadeIn();
+    // }, function() {
+    //     $(this).stop().animate({opacity:

@@ -60,6 +60,7 @@ margin-top: 10rem;
     margin-top: 40px;
     background-image: url(images/Delani1.jpg);
     background-size: cover;
+    height: 100vh;
 }
 .container {
     padding-right: 20px;
@@ -81,4 +82,7 @@ margin-top: 10rem;
     .container {
       width: 1200px;
     }
+  }
+  #one:hover{
+      opacity: 0.5;
   }
