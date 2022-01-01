@@ -7,7 +7,7 @@
 ## Project setup instructions
 can be use in android phones
 laptops
-desktop
+desktop.
 
 ## License info
 MIT License
