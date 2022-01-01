@@ -1,20 +1,18 @@
-# Hello-World
+# DELANI STUDIO
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Martin Omollo](https://github.com/MARTIN-OMOLLO/Delani.git)
+
 
 ## Project setup instructions
-To start using this project use the following commands:
-
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
-- `atom .`
+can be use in android phones
+laptops
+desktop
 
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2018 Martin Omollo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
