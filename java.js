@@ -18,3 +18,9 @@ $(document).ready(function() {
             $(".parathree").toggle();
         });
     });
+    $(document).ready(function(){
+        $(".col").click(function(){
+            $(".col").hover()
+            $(".col").opacity(0.5)
+        })
+    })
