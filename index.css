@@ -32,6 +32,8 @@ margin-top: 10rem;
 #name{
     height: 30px;
     width: 290px;
+    border-color: white;
+    background-color: none;
 }
 #email{
     height: 30px;
@@ -61,6 +63,8 @@ margin-top: 10rem;
     background-image: url(images/Delani1.jpg);
     background-size: cover;
     height: 100vh;
+    border-color: white;
+    
 }
 .container {
     padding-right: 20px;
