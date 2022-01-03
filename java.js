@@ -21,6 +21,14 @@ $(document).ready(function() {
     $(document).ready(function(){
         $(".col").click(function(){
             $(".col").hover()
-            $(".col").opacity(0.5)
+            element.onmouseover = function() {
+                //Hovering
+              }
         })
     })
+  function sendMessage (){
+     var name = document.getElementById("name").value; 
+     var email = document.getElementById("email").value;
+     var message = document.getElementById("message").value;
+     var inputedName = validInput(); validEmail();  validMessage(); validName();
+  }
