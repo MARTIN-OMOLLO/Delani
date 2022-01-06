@@ -36,6 +36,7 @@ function sendMessage() {
         if (name == "") {
             alert("Enter name");
             return false;
+            console.log(name)
         }
     }
     function validEmail(){
@@ -54,3 +55,76 @@ function sendMessage() {
     }
     alert("Thank you " + document.getElementById("name").value + ",We got your message");
 };
+// hover
+$(document).ready(function(){
+    $('#tone').mouseover(function(){
+        $('#pwon').show();
+    });
+    $('#tone').mouseout(function(){
+        $('#pwon').hide();
+    });
+});
+$(document).ready(function(){
+    $('#ttwo').mouseover(function(){
+        $('#ptwo').show();
+    });
+    $('#ttwo').mouseout(function(){
+        $('#ptwo').hide();
+    });
+});
+$(document).ready(function(){
+    $('#tthree').mouseover(function(){
+        $('#pthree').show();
+    });
+    $('#tthree').mouseout(function(){
+        $('#pthree').hide();
+    });
+});
+$(document).ready(function(){
+    $('#tfour').mouseover(function(){
+        $('#pfour').show();
+    });
+    $('#tfour').mouseout(function(){
+        $('#pfour').hide();
+    });
+});
+$(document).ready(function(){
+    $('#tfive').mouseover(function(){
+        $('#pfive').show();
+    });
+    $('#tfive').mouseout(function(){
+        $('#pfive').hide();
+    });
+});
+$(document).ready(function(){
+    $('#tfive').mouseover(function(){
+        $('#pfive').show();
+    });
+    $('#tfive').mouseout(function(){
+        $('#pfive').hide();
+    });
+});
+$(document).ready(function(){
+    $('#tsix').mouseover(function(){
+        $('#psix').show();
+    });
+    $('#tsix').mouseout(function(){
+        $('#psix').hide();
+    });
+});
+$(document).ready(function(){
+    $('#tseven').mouseover(function(){
+        $('#pseven').show();
+    });
+    $('#tseven').mouseout(function(){
+        $('#pseven').hide();
+    });
+});
+$(document).ready(function(){
+    $('#teight').mouseover(function(){
+        $('#peight').show();
+    });
+    $('#teight').mouseout(function(){
+        $('#peight').hide();
+    });
+});
